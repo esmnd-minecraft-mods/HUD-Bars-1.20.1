@@ -48,6 +48,15 @@ Replaces Minecraft's standard vanilla HUD with a customizable and informative co
 ![2025-04-09_16.38.24.png](2025-04-09_16.38.24.png)
 Вид интерфейса под водой / Interface when player under water
 
+![Animation_pulse_without_gradient.gif](Animation_pulse_without_gradient.gif)
+Анимация работы, также показана анимация работы пульсирования без использования градиента / Animation work, pulse health without gradient
+
+![Animation_under_water.gif](Animation_under_water.gif)
+Анимация работы под водой / Animation work under water
+
+![Animation_with_pulse_and_gradient.gif](Animation_with_pulse_and_gradient.gif)
+Анимация работы пульсирования с градиентом / Animation pulse health with gradient
+
 ## 💾 Установка / Install
 RUS:
 1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.20.1.**).
