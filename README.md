@@ -42,22 +42,22 @@ Replaces Minecraft's standard vanilla HUD with a customizable and informative co
 ![img_2.png](img_2.png)
 Меню настроек цветов градиента / Menu config gradient colors
 
-![2025-04-09_16.33.42.png](run/screenshots/2025-04-09_16.33.42.png)
+![2025-04-09_16.33.42.png](2025-04-09_16.33.42.png)
 Вид интерфейса в игре / Interface in game
 
-![2025-04-09_16.38.24.png](run/screenshots/2025-04-09_16.38.24.png)
+![2025-04-09_16.38.24.png](2025-04-09_16.38.24.png)
 Вид интерфейса под водой / Interface when player under water
 
 ## 💾 Установка / Install
 RUS:
 1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.20.1.**).
-2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases]() (или укажи ссылку на CurseForge/Modrinth, если загрузишь туда).
+2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы CurseForge
 3.  **Помести** скачанный `.jar` файл в папку `mods` внутри твоей папки Minecraft (`%appdata%/.minecraft/mods` на Windows).
 4.  **Запусти** Minecraft с установленным профилем Forge.
 
 ENG:
 1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.20.1.**).
-2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases]() page (or provide a link to CurseForge/Modrinth if you upload there).
+2.  **Download** the latest version of the `esmndnewhud.jar` mod from the CurseForge
 3.  **Place** the downloaded `.jar` file into the `mods` folder inside your Minecraft folder (`%appdata%/.minecraft/mods` on Windows).
 4.  **Start** Minecraft with the Forge profile installed.
 
