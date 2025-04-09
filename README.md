@@ -69,6 +69,10 @@ RUS:
 3.  **Помести** скачанный `.jar` файл в папку `mods` внутри твоей папки Minecraft (`%appdata%/.minecraft/mods` на Windows).
 4.  **Запусти** Minecraft с установленным профилем Forge.
 
+   ### ПРИМЕЧАНИЕ / NOTE
+   Исходный код для старых версий доступен в ветках(branches).
+   Source code for old version available in branches.
+
 ENG:
 1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.20.1.**).
 2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases](https://github.com/esmnd-minecraft-mods/HUD-Bars-1.20.1/releases)
