@@ -1,4 +1,9 @@
-# esmnd HUD Bars
+# esmnd HUD Bars 1.19.4
+
+### ПРИМЕЧАНИЕ / NOTE
+Модификации в репозитории [esmnd-minecraft-mods](https://github.com/esmnd-minecraft-mods/) написаны с помощью нейросетей(ИИ) Gemini, DeepSeek, Claude
+
+The modifications in the repository [esmnd-minecraft-mods](https://github.com/esmnd-minecraft-mods/) are written with neural networks (AI) Gemini, DeepSeek, Claude
 
 ### RUS:
 Заменяет стандартный ванильный интерфейс (HUD) Minecraft на настраиваемый и информативный аналог в виде баров. Отображает здоровье, голод, броню, опыт и воздух в виде минималистичных полос с возможностью кастомизации.
@@ -42,22 +47,31 @@ Replaces Minecraft's standard vanilla HUD with a customizable and informative co
 ![img_2.png](img_2.png)
 Меню настроек цветов градиента / Menu config gradient colors
 
-![2025-04-09_16.33.42.png](run/screenshots/2025-04-09_16.33.42.png)
+![2025-04-09_16.33.42.png](2025-04-09_16.33.42.png)
 Вид интерфейса в игре / Interface in game
 
-![2025-04-09_16.38.24.png](run/screenshots/2025-04-09_16.38.24.png)
+![2025-04-09_16.38.24.png](2025-04-09_16.38.24.png)
 Вид интерфейса под водой / Interface when player under water
+
+![Animation_pulse_without_gradient.gif](Animation_pulse_without_gradient.gif)
+Анимация работы, также показана анимация работы пульсирования без использования градиента / Animation work, pulse health without gradient
+
+![Animation_under_water.gif](Animation_under_water.gif)
+Анимация работы под водой / Animation work under water
+
+![Animation_with_pulse_and_gradient.gif](Animation_with_pulse_and_gradient.gif)
+Анимация работы пульсирования с градиентом / Animation pulse health with gradient
 
 ## 💾 Установка / Install
 RUS:
-1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.20.1.**).
-2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases]() (или укажи ссылку на CurseForge/Modrinth, если загрузишь туда).
+1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.19.4.**).
+2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases]().
 3.  **Помести** скачанный `.jar` файл в папку `mods` внутри твоей папки Minecraft (`%appdata%/.minecraft/mods` на Windows).
 4.  **Запусти** Minecraft с установленным профилем Forge.
 
 ENG:
-1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.20.1.**).
-2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases]() page (or provide a link to CurseForge/Modrinth if you upload there).
+1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.19.4.**).
+2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases]() page.
 3.  **Place** the downloaded `.jar` file into the `mods` folder inside your Minecraft folder (`%appdata%/.minecraft/mods` on Windows).
 4.  **Start** Minecraft with the Forge profile installed.
 
@@ -102,13 +116,13 @@ The configuration file can also be found at the path: `.minecraft/config/esmnd_h
 
 ## 🔗 Совместимость / Compatibility
 RUS:
-*   **Minecraft:** 1.20.1
-*   **Загрузчик модов:** Forge от 47.3.0
+*   **Minecraft:** 1.19.4
+*   **Загрузчик модов:** Forge от 45.3.0
 *   **Другие моды:** Мод изменяет только рендеринг HUD и должен быть совместим с большинством других модов. Однако возможны конфликты с модами, которые *также* изменяют ванильный HUD (например, другие полные переделки интерфейса).
 
 ENG:
-*   **Minecraft:** 1.20.1
-*   **Mod Loader:** Forge from 47.3.0
+*   **Minecraft:** 1.19.4
+*   **Mod Loader:** Forge from 45.3.0
 *   **Другие моды:** The mod only changes the HUD rendering and should be compatible with most other mods. However, there may be conflicts with mods that *also* modify the vanilla HUD (e.g. other complete interface redesigns).
 
 ## 📜 Лицензия

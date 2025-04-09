@@ -7,9 +7,9 @@
   "esmndnewhud.button.reset": "Reset to Default",
   "esmndnewhud.button.changecolor": "Change color Bars",
   "esmndnewhud.checkbox.size_dependency": "Fixed Size Bars",
+  "esmndnewhud.checkbox.size_dependency_tooltip": "When disabled, the size of the Bars will be controlled by the “GUI Scale” parameter in Video Settings",
   "esmndnewhud.slider.size_dependency": "Size Bars: %s",
   "esmndnewhud.slider.size_dependency_tooltip": "Changing this parameter affects the size of the Bars in the game. For large resolution (more than 2560x1440) it is recommended to set this value to x2.",
-  "esmndnewhud.checkbox.size_dependency_tooltip": "When disabled, the size of the Bars will be controlled by the “GUI Scale” parameter in Video Settings",
   "esmndnewhud.checkbox.show_percent_bars": "Display percentages of bar values on the left",
   "esmndnewhud.button.gradientoff": "Health Gradient: Disabled",
   "esmndnewhud.button.gradienthardcore": "Health Gradient: Only in Hardcore",
@@ -29,9 +29,9 @@
   "esmndnewhud.screen.barfood": "Main color Food",
   "esmndnewhud.screen.barfoodbg": "Background color Food",
   "esmndnewhud.screen.barxp": "Main color Experience",
-  "esmndnewhud.screen.barxpbg": "Background color Experience",
+  "esmndnewhud.screen.barxpbg": "Background color Experience  ",
   "esmndnewhud.screen.barair": "Main color Air",
   "esmndnewhud.screen.barairbg": "Background color Air",
-  "esmndnewhud.screen.gradientone": "Gradient color end",
-  "esmndnewhud.screen.gradienttwo": "Gradient color start"
+  "esmndnewhud.screen.gradientone": "Gradient color start",
+  "esmndnewhud.screen.gradienttwo": "Gradient color end"
 }
