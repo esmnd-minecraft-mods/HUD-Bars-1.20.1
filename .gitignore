@@ -28,6 +28,7 @@ logs/
 # === OS Generated Files ===
 .DS_Store
 Thumbs.db
+JDK17
 
 # Files from Forge MDK
 forge*changelog.txt
