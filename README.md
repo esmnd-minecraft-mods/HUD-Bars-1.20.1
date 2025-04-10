@@ -1,4 +1,4 @@
-# esmnd HUD Bars 1.20.1
+# esmnd HUD Bars 1.12.2
 
 ### ПРИМЕЧАНИЕ / NOTE
 Модификации в репозитории [esmnd-minecraft-mods](https://github.com/esmnd-minecraft-mods/) написаны с помощью нейросетей(ИИ) Gemini, DeepSeek, Claude
@@ -64,14 +64,14 @@ Replaces Minecraft's standard vanilla HUD with a customizable and informative co
 
 ## 💾 Установка / Install
 RUS:
-1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.20.1.**).
-2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases](https://github.com/esmnd-minecraft-mods/HUD-Bars-1.20.1/releases)
+1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.12.2.**).
+2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases]().
 3.  **Помести** скачанный `.jar` файл в папку `mods` внутри твоей папки Minecraft (`%appdata%/.minecraft/mods` на Windows).
 4.  **Запусти** Minecraft с установленным профилем Forge.
 
 ENG:
-1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.20.1.**).
-2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases](https://github.com/esmnd-minecraft-mods/HUD-Bars-1.20.1/releases)
+1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.12.2.**).
+2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases]() page.
 3.  **Place** the downloaded `.jar` file into the `mods` folder inside your Minecraft folder (`%appdata%/.minecraft/mods` on Windows).
 4.  **Start** Minecraft with the Forge profile installed.
 
@@ -79,7 +79,7 @@ ENG:
 RUS:
 
 Настройки мода доступны через меню настроек Forge в игре:
-**Главное меню / Меню паузы -> Моды -> HUD Bars by esmnd -> Настройки**
+**Главное меню / Mod Options -> Моды -> HUD Bars by esmnd -> Настройки**
 
 Доступные опции:
 
@@ -98,7 +98,7 @@ RUS:
 ENG:
 
 The mod settings are available through the Forge settings menu in the game:
-**Main Menu / Menu Pause -> Mods -> HUD Bars by esmnd -> Config**
+**Main Menu / Mod Options -> Mods -> HUD Bars by esmnd -> Config**
 
 Available options:
 
@@ -116,13 +116,13 @@ The configuration file can also be found at the path: `.minecraft/config/esmnd_h
 
 ## 🔗 Совместимость / Compatibility
 RUS:
-*   **Minecraft:** 1.20.1
-*   **Загрузчик модов:** Forge от 47.3.0
+*   **Minecraft:** 1.12.2
+*   **Загрузчик модов:** Forge от 14.23.5
 *   **Другие моды:** Мод изменяет только рендеринг HUD и должен быть совместим с большинством других модов. Однако возможны конфликты с модами, которые *также* изменяют ванильный HUD (например, другие полные переделки интерфейса).
 
 ENG:
-*   **Minecraft:** 1.20.1
-*   **Mod Loader:** Forge from 47.3.0
+*   **Minecraft:** 1.12.2
+*   **Mod Loader:** Forge from 14.23.5
 *   **Другие моды:** The mod only changes the HUD rendering and should be compatible with most other mods. However, there may be conflicts with mods that *also* modify the vanilla HUD (e.g. other complete interface redesigns).
 
 ## 📜 Лицензия

@@ -1,0 +1,15 @@
+[
+{
+  "modid": "esmndnewhud",
+  "name": "HUD Bars by esmnd",
+  "description": "Change Vanilla HUD on Bars.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["esmnd"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": []
+}
+]
