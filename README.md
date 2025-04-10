@@ -65,13 +65,13 @@ Replaces Minecraft's standard vanilla HUD with a customizable and informative co
 ## 💾 Установка / Install
 RUS:
 1.  **Установи [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** для нужной версии Minecraft (**1.16.5.**).
-2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases]().
+2.  **Скачай** последнюю версию мода `esmndnewhud.jar` со страницы [Releases](https://github.com/esmnd-minecraft-mods/HUD-Bars-1.20.1/releases/tag/1.16.5).
 3.  **Помести** скачанный `.jar` файл в папку `mods` внутри твоей папки Minecraft (`%appdata%/.minecraft/mods` на Windows).
 4.  **Запусти** Minecraft с установленным профилем Forge.
 
 ENG:
 1.  **Install [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)** for the correct version of Minecraft (**1.16.5.**).
-2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases]() page.
+2.  **Download** the latest version of the `esmndnewhud.jar` mod from the [Releases](https://github.com/esmnd-minecraft-mods/HUD-Bars-1.20.1/releases/tag/1.16.5) page.
 3.  **Place** the downloaded `.jar` file into the `mods` folder inside your Minecraft folder (`%appdata%/.minecraft/mods` on Windows).
 4.  **Start** Minecraft with the Forge profile installed.
 
